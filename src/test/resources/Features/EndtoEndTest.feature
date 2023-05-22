@@ -15,7 +15,7 @@ Feature: This feature is for Register on the website using the email address
 
     Examples: 
       | firstName | lastName | email                    | country | state     | address                    | city      | zip    | loginName | password | confPass |
-      | Kennedy   | Hoppe    | colten_hoppe85@gmail.com | India   | Karnataka | 0508 Berge Course Apt. 018 | Bangalore | 560029 | 0pdoqbyd  | 3epsgz   | 3epsgz   |
+      | Kennedya123   | Hoppe13432    | colten_hoprewp1234@gmail.com | India   | Karnataka | 0508 Berge Course Apt. 018 | Bangalore | 560029 | 0pdasdhgfd  | 3e12314tgdd   | 3e12314tgdd   |
 
   #Enter the user credentials
   @Login

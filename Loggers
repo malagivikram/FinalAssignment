@@ -1,0 +1,21 @@
+2023-05-23 00:02:15 INFO  LoggerHelper:48 - Browser is Opened
+2023-05-23 00:02:16 INFO  LoggerHelper:70 - Clicked on Continue button for creating a New Account
+2023-05-23 00:02:17 INFO  LoggerHelper:82 - User Entered firstName, lastName and email
+2023-05-23 00:02:18 INFO  LoggerHelper:91 - User has selected both Country and State from the dropdown
+2023-05-23 00:02:19 INFO  LoggerHelper:101 - User has entered address, city and zip
+2023-05-23 00:02:20 INFO  LoggerHelper:111 - User has entered loginName, password and confPass
+2023-05-23 00:02:20 INFO  LoggerHelper:119 - User has checked on PrivacyPolicy checkbox
+2023-05-23 00:02:21 INFO  LoggerHelper:127 - User has entered all the Mandatory fields and clicked on continue button
+2023-05-23 00:02:22 INFO  LoggerHelper:59 - Browser is Closed
+2023-05-23 00:02:28 INFO  LoggerHelper:48 - Browser is Opened
+2023-05-23 00:02:29 INFO  LoggerHelper:158 - User entered loginUserName and Password
+2023-05-23 00:02:30 INFO  LoggerHelper:166 - User clicked on Login button
+2023-05-23 00:02:30 INFO  LoggerHelper:178 - User is Successfully Logged in to HomePage
+2023-05-23 00:02:30 INFO  LoggerHelper:59 - Browser is Closed
+2023-05-23 00:02:40 INFO  LoggerHelper:48 - Browser is Opened
+2023-05-23 00:02:40 INFO  LoggerHelper:193 - User navigated to MEN's catagory for selecting the product
+2023-05-23 00:02:42 INFO  LoggerHelper:202 - Item has been added to the cart
+2023-05-23 00:02:44 INFO  LoggerHelper:210 - Clicked on Cart button
+2023-05-23 00:02:44 INFO  LoggerHelper:222 - The item added to the cart is Correct
+2023-05-23 00:02:44 INFO  LoggerHelper:233 - Verification Passed for the Payment case
+2023-05-23 00:02:44 INFO  LoggerHelper:59 - Browser is Closed
